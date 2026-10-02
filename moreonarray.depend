@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1770926097 source:c:\users\pc\documents\codeblocks programs\moreonarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
